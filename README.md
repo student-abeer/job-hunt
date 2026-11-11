@@ -198,4 +198,3 @@ It is more than a job scraper — it is an intelligent job discovery and applica
 
 ---
 
-**Built with ❤️ using Python, AI, APIs, and Automation.**
