@@ -1,0 +1,40 @@
+{
+  "name": "Abeer Ul Haq Siddiqi",
+  "current_title": "Computer Science Student & Full Stack Developer Trainee",
+  "years_experience": 0,
+  "core_skills": [
+    "Java",
+    "JavaScript",
+    "React.js",
+    "Node.js",
+    "Express.js",
+    "MongoDB",
+    "RESTful APIs",
+    "MySQL",
+    "Data Structures & Algorithms",
+    "Object-Oriented Programming",
+    "DBMS",
+    "Git",
+    "GitHub",
+    "JWT Authentication"
+  ],
+  "domains": [
+    "Full Stack Development",
+    "Web Development",
+    "Backend Engineering",
+    "Database Management"
+  ],
+  "notable_projects": [
+    "StockWise Inventory Management System: Developed a MERN-stack inventory management system featuring JWT authentication, RESTful APIs, MongoDB integration, and role-based access control.",
+    "Hotel Management System: Built a console-based Java application utilizing OOP concepts (inheritance, encapsulation) and file handling for managing hotel bookings, billing, and customer records."
+  ],
+  "education": "B.Tech in Computer Science and Engineering, Jai Narain College of Technology (2023 – 2027 | CGPA: 8.92)",
+  "target_titles": [
+    "Software Engineer Intern",
+    "Junior Full Stack Developer",
+    "Junior Java Developer",
+    "Graduate Software Engineer",
+    "Associate Software Engineer"
+  ],
+  "seniority": "intern"
+}
